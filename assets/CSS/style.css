@@ -1,9 +1,50 @@
-#love {
+body {
 
-    color: black;
+    background-color: #9900cc;
+    text-align: center;
 }
 
-.background {
+h1 {
 
-    color: black;
+    color: goldenrod;
+    font-size: 200%;
+}
+
+p {
+
+    color: goldenrod;
+    font-size: large;
+
+}
+
+img {
+
+        height: 650px;
+        width: auto;
+       
+}
+
+.mall {
+
+    height: auto;
+    width: auto;
+
+}
+
+.trademark {
+
+    position: absolute;
+    bottom: 5;
+    right: 1070px;
+    height: 15px;
+    width: auto;
+
+}
+
+.copyright {
+
+margin: 10;
+font-size: x-small;
+font: "Times New Roman";
+
 }
